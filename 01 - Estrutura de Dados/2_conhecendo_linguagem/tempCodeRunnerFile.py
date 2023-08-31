@@ -1,0 +1,1 @@
+print("Maçã" in frutas)
